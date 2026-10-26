@@ -1,5 +1,6 @@
 import Post from "./Post";
 
+// Display the list of posts
 export default function PostList({ posts }) {
   if (posts.length === 0) {
     return <p>No posts found.</p>;
