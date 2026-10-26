@@ -1,3 +1,4 @@
+// Filter posts by title
 export default function FilterForm({ filterText, onFilterChange }) {
   return (
     <div style={{ margin: "20px 0" }}>
