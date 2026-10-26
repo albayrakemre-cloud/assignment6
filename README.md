@@ -11,3 +11,5 @@
 ## Challenges Faced
 - Ensuring proper cleanup in `useEffect` to prevent memory leaks during asynchronous operations.
 - Implementing derived state for real-time filtering without duplicating filtered results inside React state.
+
+## Additional Notes\n- Project successfully deployed and verified.
